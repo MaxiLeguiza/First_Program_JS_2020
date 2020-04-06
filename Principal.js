@@ -1,4 +1,4 @@
-const matematica = require('./Calculos.js');
+const matematica = require('./Calculos.js');//Aqui se realiza el llamado de la clase contenedora de las funciones 
 
 
 console.log('***********INICIO DE PROGRAMA************');
